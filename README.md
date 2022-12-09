@@ -17,6 +17,14 @@ input--enter (fpr intial amount if you want)
 
 ouptput--Account created Sucessfully
 
+now home select(1-8):
+1.add account
+2.add amount
+3.check Balance
+4.withdraw Amount
+5.all account holder
+etc... given below.
+
 ![image](https://user-images.githubusercontent.com/117119492/206639085-ef6aca81-a8a0-4f79-ad6b-8106b4c32b32.png)
 
 HOME:
