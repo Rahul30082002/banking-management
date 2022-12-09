@@ -25,6 +25,8 @@ now home select(1-8):
 5.all account holder
 etc... given below.
 
+
+UML of program.
 ![image](https://user-images.githubusercontent.com/117119492/206639085-ef6aca81-a8a0-4f79-ad6b-8106b4c32b32.png)
 
 HOME:
