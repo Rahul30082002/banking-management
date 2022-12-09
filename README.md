@@ -35,6 +35,11 @@ All Account holder list:
 
 ![AALLL](https://user-images.githubusercontent.com/117119492/206660142-84982ed9-ed25-406d-bbd9-a9ae207d78bd.png)
 
+Deposit:
+
+![DEPOSIT](https://user-images.githubusercontent.com/117119492/206660323-aa66ca49-0096-494f-9422-a348fcfdb1e6.png)
+
+
 
 
 
