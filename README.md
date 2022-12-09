@@ -9,26 +9,8 @@ input--enter (for account holder name)
 input--enter (for type of account)
 input--enter (fpr intial amount if you want)
 ouptput--Account created Sucessfully
-UML
-ACCOUNT--------
--acno: int
--name : char
--deposite : int
--type : char
--ch : char
--num : int
--post : int
--welcome(): void
-+create_account(); void
-+show_account(); void
-+modify(); void
-+depo(int); void
-+draw(int); void
-+report(); void
-+retacno(); int
-+retdeposite(); int
-+rettype(); char
--intro(); void
+![image](https://user-images.githubusercontent.com/117119492/206639085-ef6aca81-a8a0-4f79-ad6b-8106b4c32b32.png)
+
 ![home](https://user-images.githubusercontent.com/117119492/206630779-302b9e16-6eb3-483a-b029-8143f1395903.png)
 ![input _output](https://user-images.githubusercontent.com/117119492/206630945-90530aad-0f21-4488-84cd-46da0cd526e2.png)
 
