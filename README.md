@@ -39,6 +39,11 @@ Deposit:
 
 ![DEPOSIT](https://user-images.githubusercontent.com/117119492/206660323-aa66ca49-0096-494f-9422-a348fcfdb1e6.png)
 
+check your balance:
+
+![BALANCE](https://user-images.githubusercontent.com/117119492/206660498-cec6bf9a-d869-4bf3-ad64-59f131c86347.png)
+
+
 
 
 
