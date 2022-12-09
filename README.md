@@ -28,6 +28,7 @@ OUTPUT:
 ![input _output](https://user-images.githubusercontent.com/117119492/206630945-90530aad-0f21-4488-84cd-46da0cd526e2.png)
 
 Open New Account:
+
 ![SUUNYY](https://user-images.githubusercontent.com/117119492/206659669-e8a428b3-3cd4-46e2-b761-2c35c5fe8334.png)
 
 
