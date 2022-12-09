@@ -1,3 +1,4 @@
+
 # banking-management system
 Team members--Sunny kumar(211134),Rahul kumar(211127)
 Problem Statement--you can do anything related to banking system like account opening , balance cheking etc.
@@ -27,6 +28,7 @@ ACCOUNT--------
 +retdeposite(); int
 +rettype(); char
 -intro(); void
+![home](https://user-images.githubusercontent.com/117119492/206630779-302b9e16-6eb3-483a-b029-8143f1395903.png)
 
 
 
